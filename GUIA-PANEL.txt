@@ -1,0 +1,14 @@
+LA VIDA 360 ES — NUEVO SISTEMA DE PRODUCTOS
+
+La web ahora carga los productos desde productos.json.
+
+Panel:
+https://lavida360es.netlify.app/admin.html
+
+Uso:
+1. Añade nombre, categoría, imagen, enlace y descripción.
+2. Pulsa Añadir.
+3. Pulsa Descargar productos.json actualizado.
+4. Sustituye productos.json en la web y despliega.
+
+Para publicar directamente desde el panel sin subir archivos, el siguiente paso es conectar la web a GitHub/Netlify.
