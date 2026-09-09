@@ -1,0 +1,101 @@
+[
+  {
+    "id": 1,
+    "slug": "astronauta-skater",
+    "nombre": "Camiseta astronauta skater",
+    "categoria": "Moda",
+    "imagen": "images/producto-1.jpg",
+    "amazon": "https://amzn.eu/d/08lYAgko",
+    "descripcion": "Camiseta negra con diseño de astronauta skater."
+  },
+  {
+    "id": 2,
+    "slug": "skater-palabras",
+    "nombre": "Camiseta skater de palabras",
+    "categoria": "Moda",
+    "imagen": "images/producto-2.jpg",
+    "amazon": "https://amzn.eu/d/0eLEkl7F",
+    "descripcion": "Camiseta negra con diseño urbano inspirado en skate."
+  },
+  {
+    "id": 3,
+    "slug": "esqueleto-skater",
+    "nombre": "Camiseta esqueleto skater",
+    "categoria": "Moda",
+    "imagen": "images/producto-3.jpg",
+    "amazon": "https://amzn.eu/d/08B59dkV",
+    "descripcion": "Camiseta negra con ilustración de esqueleto skater."
+  },
+  {
+    "id": 4,
+    "slug": "calavera-skate",
+    "nombre": "Camiseta calavera skateboard",
+    "categoria": "Moda",
+    "imagen": "images/producto-4.jpg",
+    "amazon": "https://amzn.eu/d/0hv6ucUB",
+    "descripcion": "Camiseta negra con diseño de calavera y skateboard."
+  },
+  {
+    "id": 5,
+    "slug": "vaqueros-negros-baggy",
+    "nombre": "Vaqueros negros baggy",
+    "categoria": "Moda",
+    "imagen": "images/producto-5.jpg",
+    "amazon": "https://amzn.eu/d/0gNxoQtu",
+    "descripcion": "Vaqueros negros de corte ancho estilo baggy."
+  },
+  {
+    "id": 6,
+    "slug": "pantalon-corto-baloncesto",
+    "nombre": "Pantalón corto baloncesto",
+    "categoria": "Moda",
+    "imagen": "images/producto-6.jpg",
+    "amazon": "https://amzn.eu/d/0gqLfGik",
+    "descripcion": "Pantalón corto deportivo de estilo baloncesto."
+  },
+  {
+    "id": 7,
+    "slug": "camiseta-skate-multicolor",
+    "nombre": "Camiseta SKATE multicolor",
+    "categoria": "Moda",
+    "imagen": "images/producto-7.jpg",
+    "amazon": "https://amzn.eu/d/0ifJ9kIt",
+    "descripcion": "Camiseta negra con gráfico SKATE multicolor."
+  },
+  {
+    "id": 8,
+    "slug": "camiseta-astronauta-dj",
+    "nombre": "Camiseta astronauta DJ",
+    "categoria": "Moda",
+    "imagen": "images/producto-8.jpg",
+    "amazon": "https://amzn.eu/d/03BdKsi5",
+    "descripcion": "Camiseta negra con diseño de astronauta DJ."
+  },
+  {
+    "id": 9,
+    "slug": "coca-cola-zero-12x330",
+    "nombre": "Coca-Cola Zero Azúcar Pack 12 x 330 ml",
+    "categoria": "Alimentación",
+    "imagen": "images/producto-9.jpg",
+    "amazon": "https://amzn.eu/d/0iNSZzH7",
+    "descripcion": "Pack de 12 latas de 330 ml."
+  },
+  {
+    "id": 10,
+    "slug": "bezoya-agua-8l",
+    "nombre": "Bezoya Agua Mineral Natural 8L",
+    "categoria": "Alimentación",
+    "imagen": "images/producto-10.jpg",
+    "amazon": "https://amzn.eu/d/0bryw6Tj",
+    "descripcion": "Formato de 8 litros con grifo dispensador."
+  },
+  {
+    "id": 11,
+    "slug": "renova-maxiabsorption-xxl",
+    "nombre": "Renova Maxiabsorption XXL",
+    "categoria": "Hogar",
+    "imagen": "images/producto-11.jpg",
+    "amazon": "https://amzn.eu/d/0ee5Pgzj",
+    "descripcion": "Rollo de cocina XXL, triple y blanco."
+  }
+]
